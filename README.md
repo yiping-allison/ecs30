@@ -18,7 +18,7 @@ Spring 2018
 ---
 
 This course has been discontinued since Fall 2018 and has been replaced with the _36_ series for the CS major
-track, and the _32_ series for the non-major track.
+track, and the _32_ series for the non-major track. _(2019)_
 
 _**Disclaimer**_
 
